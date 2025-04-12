@@ -1,1 +1,2 @@
-# GeneEditingResearchandClinicalTrialsDatabaseProjects
+# Gene Editing Research and Clinical Trials Database - Full-Stack Web Development Project
+Designed and implemented a relational database to manage hypothetical data for gene editing research and clinical trials. Using SQL, I structured and populated tables to store information such as gene targets, trial phases, patient data, and outcome metrics. To enhance usability, we developed a front-end interface using HTML, CSS, and JavaScript that visualized and organized the data in a clear, interactive format. This project demonstrated end-to-end development skills, from database design and query writing to front-end integration and user-centric presentation.
